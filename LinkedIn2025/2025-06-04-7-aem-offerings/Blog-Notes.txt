@@ -1,0 +1,15 @@
+7 AEM platforms and comparisons
+Technical and functional
+
+When consulting companies go to market, we pick a few of these to bring to customers. Some because the customer asked for it. At best we take what we think is best for our customers , at worst we focus on what we can execute on
+
+Break this in multiple paragraphs. All of these options will not make it to any one single sales side I would imagine from Adobe or any consulting firm. Capturing opportunities is about story telling and narrative building. This slide will distract and confuse. If Adobe had a workshop and decided EDS, service providers will bring EDS stories. If long time consulting team decided on headless CMS, headless CMS will be the focus of story telling from Adobe.
+
+At best consulting firms has the breathe to bring the best solution to the client, leaner Adobe consulting partners may have to bring what they know or they have staffing for.
+
+To me the big picture of all Adobe offering is lost in the process. However seeing this helps my technical brain and hopefully it’ll help you as well
+
+
+In addition to the 4 project files please focus on all the conversaitons I've uploaded to this and note my final feedbacks, part 2 of the blogg needs to come from this.
+
+The most refined one so far is the Main-Comparison.md, use that one as the main content and use the rest as auxilary reference.
