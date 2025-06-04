@@ -54,7 +54,7 @@ Second note: There is a lot of information here and some are up for debate, plea
 | **Delivery Architecture**   | Monolithic / Dispatcher       | Cloud Containerized          | Headless App + AEM APIs                |
 | **Analytics Support**       | Adobe Analytics via Datalayer | Same                         | ⚠️ Varies (depends on SPA)       |
 | **Technical Use Case**      | Full-stack, high control      | Scalable enterprise CMS      | Decoupled UI, app-driven      |
-| **Ways to Get JSON**        | Custom Servlet                | `.model.json`                | `.model.json`                 |
+| **Ways to Get JSON**        | `.model.json`                | `.model.json`                | `.model.json`                 |
 
 ##### Modern/Headless AEM Solutions
 
