@@ -1,0 +1,11 @@
+My AEM Blog With More Substance: Making Sense of 7 AEM Capabilities
+
+When AEM is brought into a project, teams often align around one architecture, not all seven.
+
+But how do you compare 6.5, AEMaaCS, Headless CFs, Sites with UE, and Edge Delivery Services in one place?
+
+This new post is a technical walkthrough and opinion piece meant to help technical leads (and sales teams) build better narratives. Or at least ask better questions.
+
+⬇️ Read the full post below
+
+#AEM #AdobeExperienceManager #DigitalExperience #ContentArchitecture #TechnicalLeadership #AEMaaCS #EdgeDeliveryServices #UniversalEditor #Applicant to #AdobeChampions #ContentStrategy #DevExperience #MarketingTechnology #CMSComparisons #LeadershipInTech

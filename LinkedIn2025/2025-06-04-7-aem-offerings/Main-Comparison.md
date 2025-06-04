@@ -24,17 +24,19 @@ Second note: There is a lot of information here and some are up for debate, plea
 | **Author Personalization Integration (Target)** | ✅ Experience Fragment                | ✅ Experience Fragment                                     | ⚠️ Depends | ✅ Content Fragment         | ✅ Exfrag                                                    | ⚠️ Actually not sure what OOTB support is here                                                | ❌      No productized content to Target offer export                                                   |
 | **Business Use Case Fit**                       | Full control, legacy  | Full stack CMS                             | SPA-heavy frontend, legacy      | API-first, modern, mobile/web | Modern Sites Authoring?                                     | High-performance Sites with AEM features (workflows, permissions, etc)                                          | Editorial /Newsrooms / Speed / Ease of Use                                      |
 
+
 ---
 
 #### 🔧 Non-Functional, Technical, Infrastructure & Analytics
 
+
 | Feature / Capability         | Classic AEM 6.5 (Core Comp)              | AEMaaCS (Core Comp)            | AEM w/ SPA SDKs               | AEM Headless CF + UE          | UE with AEM Sites                 | AEM UE + EDS                   | Docs with EDS                        |
 |-----------------------------|-------------------------------|------------------------------|-------------------------------|-------------------------------|----------------------------------|-------------------------------|------------------------------------|
-| **Client HTML Rendering**   | AEM Renderer                  | AEM Renderer                 | External (CSR/SSR)            | External (CSR/SSR)            | JSON or still HTML (i could make this blog 8 capabilities)                     | EDS Runtime                   | EDS Runtime                        |
-| **Backend Dev in AEM**      | ✅ Full                        | ✅ Full                      | ✅ (limited to content)        | ⚠️ Not recommended             | ⚠️ Partial                       | ❌                             | ❌                                  |
+| **Client HTML Rendering**   | AEM Renderer                  | AEM Renderer                 | External (CSR/SSR)            | External (CSR/SSR)            | AEM-rendered HTML enhanced via .model.json endpoints (i could make this blog 8 capabilities)                     | EDS Runtime                   | EDS Runtime                        |
+| **Backend Dev in AEM**      | ✅ Full                        | ✅ Full                      | ✅ (limited to content)        | ⚠️ Not recommended             | ✅ Full                    | ❌                             | ❌                                  |
 | **Content Stored In**       | JCR (Sites/XF/CF)             | JCR (Sites/XF/CF)            | Pages                         | Content Fragments                     | Pages                            | Pages                         | Docs (GDocs/SharePoint)            |
 | **Delivery Architecture**   | Monolithic / Dispatcher       | Cloud Containerized          | Headless App + AEM APIs                | Headless App + Headless API          | Headless App + AEM Sites Headless API. Or just AEM Sites            | AEM Sites + decorate.js      | Markdown → HTML + decorate.js      |
-| **Analytics Support**       | Adobe Analytics via Datalayer | Same                         | Varies (depends on SPA)       | Core Datalayer (CF)           | UE-aware Datalayer               | Datalayer + decorate.js      | Static tags (manual or build-time) |
+| **Analytics Support**       | Adobe Analytics via Datalayer | Same                         | ⚠️ Varies (depends on SPA)       |⚠️ Varies (depends on SPA)          | Depends on HTML or JSON             | ⚠️ Varies (depends on impl)      | ⚠️ Varies (depends on impl) |
 | **Technical Use Case**      | Full-stack, high control      | Scalable enterprise CMS      | Decoupled UI, app-driven      | Pure headless delivery        | Editable sites with .model.json. Or extend on typcial sites but not use dialogs. | Edge-performant hybrid       | Doc-driven publishing with no CMS  |
 | **Ways to Get JSON**        | Custom Servlet                | `.model.json`                | `.model.json`                 | GraphQL + Persisted           | `.model.json`    .infinity.json                 | ❌                             | ❌                                  |
 
