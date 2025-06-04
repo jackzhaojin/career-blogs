@@ -1,0 +1,114 @@
+Vibe Coding on a Sunday: Ranking AI Tools for STAR Story Generation
+I spent my Sunday diving into AI-assisted coding tools and deploying a project on Azure—a web app that generates STAR (Situation, Task, Action, Results) stories from user-uploaded feedback. Here's what I built, the tools I used, and what I learned along the way.
+
+Check out the GitHub repository here: GitHub Repo Try the live app here: Deployed App
+
+If you actually end up using the tool, let me know how it is! Me and the AI might be back with enhancements.
+
+The Tools I Used (Ranked)
+Based on Functional Vibe, Refactoring, Outside Context Handling, and Getting It Right With Minimal Feedback, here’s how the tools stacked up:
+
+🥇 1. Anthropic Claude 3.7 CLI (@anthropic-ai/claude-code)
+📍 #1 Pick — Best-in-class quality + terminal-native dev assistant
+
+This research-preview CLI tool lets you talk to Claude directly in your terminal. It can:
+
+Understand your entire codebase context
+Edit files, run tests, and even manage Git
+Replace your browser-based AI workflow entirely
+
+💡 It’s shockingly good at multi-step tasks like “refactor this file and update its dependencies across the repo.”
+
+🎥 Huge thanks to Fireship for covering this — his video is what got me to try it!
+
+✅ Pros:
+
+Deep codebase understanding
+Native CLI workflow (no browser/tab juggling)
+Very little handholding needed
+
+❌ Cons:
+
+💸 It’s expensive — I was averaging ~$0.15 per query. I want to use it more
+Still in preview — expect rough edges, like not working on windows
+
+🥈 2. Anthropic Claude 3.7 (Web Interface)
+💻 Best for large-context refactoring and structured code generation
+
+Claude’s web interface continues to be incredibly capable. I used it for refactoring large components, breaking monoliths into smaller files, and even exploratory code design — all with great results.
+
+✅ Pros:
+
+Large context window support (great for real projects)
+Clear, maintainable, and logically structured code
+Responds well to follow-up instructions
+
+❌ Cons:
+
+Manual copy-pasting still required
+I couldn’t switch branches in the GitHub context feature — led to a messy main commit spree
+
+🥉 3. GitHub Copilot
+🛠️ Affordable and integrated — but limited intelligence
+
+Copilot is still a handy sidekick, especially when you're in the zone and want quick completions. The recent agent feature is a nice touch and reduced the Ctrl+C/Ctrl+V grind on my local machine.
+
+✅ Pros:
+
+Low cost and easy to set up
+Speeds up simple and repetitive coding tasks
+Context window can be defined manually
+
+❌ Cons:
+
+⚠️ Not as smart or nuanced as Claude — especially with multi-file or abstract tasks
+Lacks project-wide understanding
+
+🏅 4. ChatGPT-4o (OpenAI)
+😎 Passes the Vibe Check — Best for discussion, not code
+
+ChatGPT-4o isn’t a powerhouse coder, but it’s great for thinking out loud, validating logic, or breaking down a complex problem before you tackle it with another tool.
+
+✅ Pros:
+
+Friendly and intuitive interface
+Great for problem-solving and idea generation
+
+❌ Cons:
+
+Not the best at accurate or scalable code output
+Hallucinated the most for me
+
+🏅 5. Perplexity
+Even with the pro requests, I did not have a great time with it.
+
+What I Built
+The app lets users upload experiences or feedback to generate STAR stories—perfect for interviews or self-reflection exercises. It’s built using:
+
+Azure Functions for UI rendering and backend processing.
+Azure AI Foundry, leveraging GPT-4o-mini for cost-effective text generation at $0.15 per million input token.
+
+How It Felt
+This project was a rollercoaster of emotions:
+
+Joy: Building faster than ever before felt empowering—like unlocking a new level of productivity! Watching ideas come to life so quickly was deeply satisfying, especially knowing how much time these tools saved me compared to traditional coding methods. What I spend a lot of my day doing is communicating how to build things and making sure things get built right. This feedback loop is near instantaneous.
+Frustration: Experienced some growing pains learning how to use various AI platforms. AI also makes things up and various models has different capabilities. While Claude 3.7 on the web with github in context was very good, it took some time to generate all the file output, from time to time I worked with a different AI
+Curiosity: Experimenting with these tools felt like exploring uncharted territory in software development—every interaction taught me something new about their capabilities and limitations.
+Gratitude: The fact that these tools even exist is mind-blowing! A few years ago, this level of AI assistance would have seemed impossible.
+
+Despite the occasional hiccups, the overall experience was exhilarating—proof of how far AI-assisted coding has come in just a year.
+
+What I Learned
+AI-Assisted Coding is Transformative: The tools are evolving rapidly, making development faster and more intuitive than ever before.
+Automation is Inevitable: Agents are already automating significant portions of workflows; it’s only a matter of time before they handle even more.
+Azure is Underrated: Azure Foundry's seamless integration with base and fine-tuned models made deploying this project surprisingly straightforward.
+
+Final Thoughts
+AI-assisted coding isn’t just about efficiency—it’s about exploring new possibilities and pushing boundaries in development workflows. If you’re curious about these tools or want to see what I built, check out the links above! Let me know your thoughts—have you tried Vibe coding yet?
+
+Also, are we the horse in this picture? Does AI really need us in 20 years to build software? Agentic ^ Agentic is probably the future.
+
+
+
+Article content
+#AI #DeveloperTools #Claude3 #GitHubCopilot #ChatGPT #Fireship #CodeAssistants #Productivity #GenerativeAI #DevLife #AIArchitecture #TechnicalLeadership #DevExperience #EngineeringExcellence #TechStrategy #SoftwareArchitecture
