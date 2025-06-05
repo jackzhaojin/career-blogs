@@ -54,7 +54,7 @@ Second note: There is a lot of information here and some are up for debate, plea
 | **Delivery Architecture**   | Monolithic / Dispatcher       | Cloud Containerized          | Headless App + AEM APIs                |
 | **Analytics Support**       | Adobe Analytics via Datalayer | Same                         | ⚠️ Varies (depends on SPA)       |
 | **Technical Use Case**      | Full-stack, high control      | Scalable enterprise CMS      | Decoupled UI, app-driven      |
-| **Ways to Get JSON**        | `.model.json`                | `.model.json`                | `.model.json`                 |
+| **Ways to Get Markdown / JSON**        | `.model.json`                | `.model.json`                | `.model.json`                 |
 
 ##### Modern/Headless AEM Solutions
 
@@ -66,6 +66,6 @@ Second note: There is a lot of information here and some are up for debate, plea
 | **Delivery Architecture**   | Headless App + Headless API          | Headless App + AEM Sites Headless API. Or just AEM Sites            | AEM Sites + decorate.js      | Markdown → HTML + decorate.js      |
 | **Analytics Support**       |⚠️ Varies (depends on SPA)          | Depends on HTML or JSON             | ⚠️ Varies (depends on impl)      | ⚠️ Varies (depends on impl) |
 | **Technical Use Case**      | Pure headless delivery        | Editable sites with .model.json. Or extend on typcial sites but not use dialogs. | Edge-performant hybrid       | Doc-driven publishing with no CMS  |
-| **Ways to Get JSON**        | GraphQL + Persisted           | `.model.json`    .infinity.json                 | ❌                             | ❌                                  |
+| **Ways to Get Markdown / JSON**        | GraphQL + Persisted Query          | `.model.json`    .infinity.json                 | .md                              | .md                                   |
 
 ---
