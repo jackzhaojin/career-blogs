@@ -1,0 +1,28 @@
+# LinkedIn Blog Posts & Articles 2025
+
+## Blog Articles
+
+### 1. Vibe Coding Sunday: Ranking AI Tools & Star Story Generation
+**Date:** April 13, 2025  
+**LinkedIn:** [https://www.linkedin.com/pulse/vibe-coding-sunday-ranking-ai-tools-star-story-generation-jack-jin-cadnc](https://www.linkedin.com/pulse/vibe-coding-sunday-ranking-ai-tools-star-story-generation-jack-jin-cadnc)  
+**Local:** [2025-04-13-vibe-coding-on-star-story-generator/acutal-blog.txt](2025-04-13-vibe-coding-on-star-story-generator/acutal-blog.txt)
+
+### 2. Leadership in AI & Coding with AI
+**Date:** May 25, 2025  
+**LinkedIn:** [https://www.linkedin.com/posts/jackjin_leadershipinai-codingwithai-appliedai-activity-7332500208129363970-Pmv8](https://www.linkedin.com/posts/jackjin_leadershipinai-codingwithai-appliedai-activity-7332500208129363970-Pmv8)  
+**Local:** [2025-05-25-new-hobby-post/actual-blog.md](2025-05-25-new-hobby-post/actual-blog.md)
+
+### 3. Why AEM Headless Makes Sense When Frontend Teams Lead
+**Date:** May 28, 2025  
+**LinkedIn:** [https://www.linkedin.com/pulse/why-aem-headless-makes-sense-when-frontend-teams-lead-jack-jin-kmtlc](https://www.linkedin.com/pulse/why-aem-headless-makes-sense-when-frontend-teams-lead-jack-jin-kmtlc)  
+**Local:** [2025-05-28-aem-headless-frontend/actual-blog.md](2025-05-28-aem-headless-frontend/actual-blog.md)
+
+### 4. From Bookshelves to Reasoning Tokens: Reflecting on Adobe's Marketing
+**Date:** June 1, 2025  
+**LinkedIn:** [https://www.linkedin.com/pulse/from-bookshelves-reasoning-tokens-reflecting-adobes-marketing-jin-gasfc](https://www.linkedin.com/pulse/from-bookshelves-reasoning-tokens-reflecting-adobes-marketing-jin-gasfc)  
+**Local:** [2025-06-01-gpt-generational-aem/actual-blog.md](2025-06-01-gpt-generational-aem/actual-blog.md)
+
+### 5. Making Sense of 7 AEM Capabilities, Tradeoffs & Narratives
+**Date:** June 4, 2025  
+**LinkedIn:** [https://www.linkedin.com/pulse/making-sense-7-aem-capabilities-tradeoffs-narratives-why-jack-jin-gl40c](https://www.linkedin.com/pulse/making-sense-7-aem-capabilities-tradeoffs-narratives-why-jack-jin-gl40c)  
+**Local:** [2025-06-04-7-aem-offerings/2025-06-04-actual-blog.md](2025-06-04-7-aem-offerings/2025-06-04-actual-blog.md)
