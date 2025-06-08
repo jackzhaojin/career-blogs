@@ -17,7 +17,7 @@
 - **Enterprise readiness:** Professional team silhouettes collaborating around the modern architecture
 
 ### 3. **Color Palette:**
-- **Adobe brand colors:** Adobe red (#FF0000) as accent
+- **Adobe brand colors:** Adobe red as accent
 - **Technology gradient:** Deep blue to bright cyan suggesting cloud/edge
 - **Professional contrast:** Clean whites and subtle grays
 

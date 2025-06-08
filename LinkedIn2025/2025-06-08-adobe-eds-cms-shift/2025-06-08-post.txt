@@ -1,0 +1,13 @@
+Adobe’s Edge Delivery Services (EDS) is the most enterprise-ready edge architecture available today. Forget the hobbyist tools — this isn’t just another static site generator. EDS is the only platform that brings true CMS power to legal, marketing, and business teams, with speed to market and speed to content creation.
+
+In this blog, I focus on two things:
+
+A look at Adobe’s CMS design philosophy over time
+
+A comparison of EDS against similar offerings (there are none, but it’s still worth the exercise)
+
+🔗 All my previous posts and blogs: https://jackzhaojin.github.io/blogs.html
+
+#AdobeEDS #EdgeDelivery #AEMaaCS #StaticSiteGeneration #EnterpriseCMS #ModernWeb #TechStrategy #DigitalExperience #WebPerformance #ContentVelocity #ComposableDX #AdobeExperienceCloud
+
+👇 Check out the full blog post below

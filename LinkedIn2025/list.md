@@ -26,3 +26,8 @@
 **Date:** June 4, 2025  
 **LinkedIn:** [https://www.linkedin.com/pulse/making-sense-7-aem-capabilities-tradeoffs-narratives-why-jack-jin-gl40c](https://www.linkedin.com/pulse/making-sense-7-aem-capabilities-tradeoffs-narratives-why-jack-jin-gl40c)  
 **Local:** [2025-06-04-7-aem-offerings/2025-06-04-actual-blog.md](2025-06-04-7-aem-offerings/2025-06-04-actual-blog.md)
+
+### 6. The Edge CMS Shift: How Adobe EDS Stacks Up Against the Modern Web
+**Date:** June 8, 2025  
+**LinkedIn:** [https://www.linkedin.com/pulse/how-adobe-eds-stacks-up-against-modern-web-jack-jin-mroyc](https://www.linkedin.com/pulse/how-adobe-eds-stacks-up-against-modern-web-jack-jin-mroyc)  
+**Local:** [2025-06-08-adobe-eds-cms-shift/2025-06-08-actual-blog.md](2025-06-08-adobe-eds-cms-shift/2025-06-08-actual-blog.md)
