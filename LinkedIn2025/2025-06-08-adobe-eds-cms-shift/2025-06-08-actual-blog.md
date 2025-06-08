@@ -106,7 +106,9 @@ The backend doesn’t slow things down. There’s no complex infrastructure to d
 
 Frontend teams are still critical. They build the templates. They create the scaffolding. But once that’s done, business teams move independently. Review cycles are shortened. Campaigns move faster. And marketers can preview and publish without delay. **And there are no backend teams**.
 
-This is the kind of architecture shift that doesn't just change platforms. It changes how teams work.
+This is the kind of architecture shift that doesn't just change platforms. It changes how teams work. **I'm doubling down on Adobe's bet EDS, and I'm liking my odds.**
+
+Last week I blogged about the 7 AEM offerings including this one, feel free to read it here: https://www.linkedin.com/pulse/making-sense-7-aem-capabilities-tradeoffs-narratives-why-jack-jin-gl40c
 
 If you found this helpful or want to explore other AEM perspectives, I’ve written more on modern CMS patterns, headless strategy, and AI-assisted architecture. Check out the rest of my blog collection here: [jackzhaojin.github.io/blogs.html](https://jackzhaojin.github.io/blogs.html)
 
