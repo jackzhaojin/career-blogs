@@ -1,6 +1,6 @@
-# The Edge CMS Shift: How Adobe EDS Stacks Up Against the Modern Web
+# How Adobe EDS Stacks Up Against the Modern Web
 
-*Before we dive in, this series of AEM blog posts will use fictitious language to protect my current and past clients.  I also support some our other projects as internal SMA for advisory. Instead of saying "we did this x times", I'll choose to say "it's possible to do this". This is for client protection.*
+*Before we dive in, this series of AEM blog posts will use fictitious language to protect my current and past clients.  I also support some of our other projects as internal SMA for advisory. Instead of saying "we did this x times", I'll choose to say "it's possible to do this". This is for client protection.*
 
 ---
 
@@ -16,7 +16,7 @@ Adobe isn’t entering an overcrowded space this time. It’s introducing someth
 
 # From CQ to EDS: A Platform Evolution
 
-Back when Day entered the CMS space with CQ5, it wasn’t first. **but it was better**. Authoring stood out. Dispatcher came bundled. TarMK made deployment easier. Compared to Documentum and others, CQ offered a unified way to manage content that was both powerful and intuitive.
+Back when Day entered the CMS space with CQ5, it wasn’t first. **But it was better**. Authoring stood out. Dispatcher came bundled. TarMK made deployment easier. Compared to Documentum and others, CQ offered a unified way to manage content that was both powerful and intuitive.
 
 Then came AEM as a Cloud Service (AEMaaCS). A big step forward. Infrastructure became Adobe’s responsibility. Clients stopped worrying about replication queues and JVM tuning. It moved AEM into the containerized world. **But even so, many of the legacy assumptions stayed**. Authoring was still tied to Sites. Deployment pipelines still required dev ops overhead. Monoliths got smaller. But didn’t disappear.
 
@@ -92,7 +92,7 @@ That’s what separates EDS. It’s not just edge delivery. It’s enterprise-re
 * **Enterprise Workflows:** Minimal
 * **Edge Support:** Limited without custom CDN setup
 
-EDS is not just different. It’s complete. From authoring to publishing, from compliance to performance. it’s the first enterprise-ready edge CMS.
+EDS is not just different. It’s complete. From authoring to publishing, from compliance to performance. It’s the first enterprise-ready edge CMS.
 
 ---
 
