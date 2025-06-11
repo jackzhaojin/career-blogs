@@ -2,21 +2,19 @@
 
 TLDR: The raw original thoughts you feed the AI should be twice as long as the final blog.
 
-After months of experimenting, I've found a process that works. Let me show you the difference between thoughtful AI collaboration and AI slop.
-
 ---
 
 🎯 The Right Way
 
-📝 Collect & Marinate First: I spend weeks gathering thoughts offline. Every conversation, article, or shower thought gets noted down. This is the most important step. Note down stories and snippets you can tell. Your unique experiences and perspectives. This note collection process is organic. Notes don't have to tell the larger story, and notes don't have to be coherent. Sometimes my notes are single sentences without grammar, sometimes they're a full paragraph of voice-to-text thoughts. This process is the most important part. Sometimes they are thoughts a clever beginning and ending combo.
+📝 Collect & Marinate First: I spend weeks gathering thoughts offline. Every conversation, article, or shower thought gets noted down. Note down your stories and unique experiences. Notes don't have to be coherent - sometimes single sentences, sometimes voice-to-text paragraphs. This is the most important part.
 
-🎤 Let AI Interview You: Instead of asking AI to "write about X," I have it interview me about my collected thoughts. This step is crucial. It extracts deeper insights from you, and the output is authentically you. Sometimes, AI writing can be more "me" than my own locked-down professional blog writing mindset. I personally like to do this with voice chat with the AI, and treat it like an interview. By this point, my input (thoughts + interview) is already 2x the final blog length.
+🎤 Let AI Interview You: Instead of asking AI to "write about X," have it interview you about your collected thoughts. This extracts deeper insights and keeps the output authentically you. I do this with voice chat. By this point, my input is already 2x the final blog length.
 
-🌊 Own Your Narrative Flow: I structure the story. AI doesn't know what journey I want to take readers on. Only I do.
+🌊 Own Your Narrative Flow: I structure the story. AI doesn't know what journey I want to take readers on.
 
-🧬 Create Your Content DNA: I maintain a blog specification: my voice, style, past posts I want to emulate. This can be done using Claude or ChatGPT Projects. This gives AI guardrails to work within my brand, not replace it. I pick my favorite past writing and tell it to follow that style.
+🧬 Create Your Content DNA: I maintain a blog specification with my voice, style, and past posts to emulate. This gives AI guardrails to work within my brand, not replace it.
 
-🔄 Version Control Everything: Using markdown and git, I can trace edits paragraph by paragraph. I see AI as a contributor to my codebase and blog, not the other way around. I'm the maintainer, AI is the contributor. Have patience and rigor with change control. Here's the thing about AI: it's both a genius with the entire internet of knowledge and a junior consultant with massive imposter syndrome willing to reach for conclusions.
+🔄 Version Control Everything: Using markdown and git, I trace edits paragraph by paragraph. I see AI as a contributor to my codebase, not the other way around. I'm the maintainer, AI is the contributor.
 
 ---
 
@@ -34,13 +32,13 @@ After months of experimenting, I've found a process that works. Let me show you 
 
 ---
 
-💡 The best way I've found to think about AI: it's like having a really smart junior editor or technical architect on your team.
+💡 Think of AI like a really smart junior editor on your team.
 
-🧠 They can help structure your thoughts, suggest improvements, and catch things you missed. But they can't replace your domain expertise, unique perspective, or creative vision.
+🧠 They help structure thoughts, suggest improvements, and catch what you missed. But they can't replace your domain expertise, unique perspective, or creative vision.
 
-✨ The content that resonates isn't the stuff that could have been written by anyone. It's the stuff that could only have been written by you. AI is your collaborative partner, not your ghostwriter.
+✨ The content that resonates could only have been written by you. AI is your collaborative partner, not your ghostwriter.
 
-🔗 Jim Lalonde's post series inspired me to write this post. He has a very insightful "Cultivating Taste: Finding Your Voice in the Age of AI" series. Very much worth reading and highly relevant to how we create content in the age of AI, and finding your voice: https://www.linkedin.com/pulse/cultivating-taste-finding-your-voice-age-ai-jim-lalonde-kfcxe
+🔗 Jim Lalonde's "Cultivating Taste: Finding Your Voice in the Age of AI" series inspired this post: https://www.linkedin.com/pulse/cultivating-taste-finding-your-voice-age-ai-jim-lalonde-kfcxe
 
 💭 What's your experience with AI content creation? Are you seeing more thoughtful collaboration or more slop?
 
