@@ -1,6 +1,4 @@
-✍️How I Use AI for writing articles (Without Falling Into the Slop Trap) 
-
-
+✍️ How I Use AI for Writing Articles (Without Falling Into the Slop Trap)
 
 TLDR: The raw original thoughts you feed the AI should be twice as long as the final blog.
 
@@ -10,29 +8,29 @@ After months of experimenting, I've found a process that works. Let me show you 
 
 🎯 The Right Way
 
-📝 Collect & Marinate First: I spend weeks gathering thoughts offline. Every conversation, article, or shower thought gets noted down. This is the most important step. Note down stories you can tell. Your story. Your unique experiences and perspectives. This note collection process is organic. Notes doesn't have to tell the larger story, and notes doesn't have to be coherent. Sometimes my notes are single sentences without grammar, sometimes they're a full paragraph of voice to text thoughts. This process is most important part.
+📝 Collect & Marinate First: I spend weeks gathering thoughts offline. Every conversation, article, or shower thought gets noted down. This is the most important step. Note down stories and snippets you can tell. Your unique experiences and perspectives. This note collection process is organic. Notes don't have to tell the larger story, and notes don't have to be coherent. Sometimes my notes are single sentences without grammar, sometimes they're a full paragraph of voice-to-text thoughts. This process is the most important part. Sometimes they are thoughts a clever beginning and ending combo.
 
-🎤 Let AI Interview You: Instead of asking AI to "write about X," I have it interview me about my collected thoughts. This step is crucial. It extracts deeper insights from you, and the output is authentically you. Sometimes, AI writing can be more "me" than my own locked-down professional blog writing mindset. I personally like to do this by with voice chat with the AI, and be an interview. By this point, my input (thoughts + interview) is already 2x the final blog length.
+🎤 Let AI Interview You: Instead of asking AI to "write about X," I have it interview me about my collected thoughts. This step is crucial. It extracts deeper insights from you, and the output is authentically you. Sometimes, AI writing can be more "me" than my own locked-down professional blog writing mindset. I personally like to do this with voice chat with the AI, and treat it like an interview. By this point, my input (thoughts + interview) is already 2x the final blog length.
 
-🌊 Own Your Narrative Flow: I structure the story. AI doesn't know what journey I want to take readers on. Only I do.
+🌊 Own Your Narrative Flow: I structure the story. AI doesn't know what journey I want to take readers on. Only I do.
 
-🧬 Create Your Content DNA: I maintain a blog specification: my voice, style, past posts I want to emulate. This can be done using Claude or Chat GPT projects. or This gives AI guardrails to work within my brand, not replace it. I pick my favorite past writing and tell it to follow it's style.
+🧬 Create Your Content DNA: I maintain a blog specification: my voice, style, past posts I want to emulate. This can be done using Claude or ChatGPT Projects. This gives AI guardrails to work within my brand, not replace it. I pick my favorite past writing and tell it to follow that style.
 
-🔄 Version Control Everything: Using markdown and git, I can trace edits paragraph by paragraph. I see AI as a contributor to my codebase and blog, not the other way around. I'm the maintainer, AI is the contributor. Have patience and rigor with change control. Here's the thing about AI. It's both a genius with the entire internet of knowledge and a junior consultant with massive imposter syndrome willing to reach for conclusions.
+🔄 Version Control Everything: Using markdown and git, I can trace edits paragraph by paragraph. I see AI as a contributor to my codebase and blog, not the other way around. I'm the maintainer, AI is the contributor. Have patience and rigor with change control. Here's the thing about AI: it's both a genius with the entire internet of knowledge and a junior consultant with massive imposter syndrome willing to reach for conclusions.
 
 ---
 
 💩 The Wrong Way (AI Slop)
 
-🚫 Zero Research: "Write a 2000-word blog about [topic]" with no domain knowledge, personal experience, or unique angle.
+🚫 Zero Research: "Write a 2000-word blog about [topic]" with no domain knowledge, personal experience, or unique angle.
 
-🤖 Generic Prompting: Asking AI broad questions that could apply to anyone, anywhere. No personal insights, no specific context.
+🤖 Generic Prompting: Asking AI broad questions that could apply to anyone, anywhere. No personal insights, no specific context.
 
-🗌 Copy-Paste Publishing: Taking AI output as-is without adding personal narrative, examples, or perspective.
+🗌 Copy-Paste Publishing: Taking AI output as-is without adding personal narrative, examples, or perspective.
 
-👻 No Voice Guidelines: Every piece sounds like the same corporate-speak because there's no personality or brand consistency.
+👻 No Voice Guidelines: Every piece sounds like the same corporate-speak because there's no personality or brand consistency.
 
-⚫ Black Box Process: No understanding of what AI contributed vs. original thought. No iteration, no refinement.
+⚫ Black Box Process: No understanding of what AI contributed vs. original thought. No iteration, no refinement.
 
 ---
 
@@ -42,14 +40,12 @@ After months of experimenting, I've found a process that works. Let me show you 
 
 ✨ The content that resonates isn't the stuff that could have been written by anyone. It's the stuff that could only have been written by you. AI is your collaborative partner, not your ghostwriter.
 
-🔗 Jim Lalonde's post series inspired me to write this post. He has a very insightful "Cultivating Taste: Finding Your Voice in the Age of AI" series. Very much worth reading and highly relevant to how we create content in age of AI, and finding your voice: https://www.linkedin.com/pulse/cultivating-taste-finding-your-voice-age-ai-jim-lalonde-kfcxe(https://www.linkedin.com/pulse/cultivating-taste-finding-your-voice-age-ai-jim-lalonde-kfcxe)
+🔗 Jim Lalonde's post series inspired me to write this post. He has a very insightful "Cultivating Taste: Finding Your Voice in the Age of AI" series. Very much worth reading and highly relevant to how we create content in the age of AI, and finding your voice: https://www.linkedin.com/pulse/cultivating-taste-finding-your-voice-age-ai-jim-lalonde-kfcxe
 
-💭What's your experience with AI content creation? Are you seeing more thoughtful collaboration or more slop? 
+💭 What's your experience with AI content creation? Are you seeing more thoughtful collaboration or more slop?
 
 ---
 
-My blogs and articles: https://jackzhaojin.github.io/blogs.html
-
-GitHub: see the actual markdown files: https://github.com/jackzhaojin/career-blogs/blob/main/LinkedIn2025/2025-06-10-ai-blog-writing/2025-06-10-actual-post.txt
+📚 My blogs and articles: https://jackzhaojin.github.io/blogs.html
 
 #AIWriting #LLMs #TechnicalLeadership #BloggingWithAI #ContentCreation #HumanVoice #ContentStrategy #DigitalExperience
