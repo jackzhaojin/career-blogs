@@ -31,3 +31,8 @@
 **Date:** June 8, 2025  
 **LinkedIn:** [https://www.linkedin.com/pulse/how-adobe-eds-stacks-up-against-modern-web-jack-jin-mroyc](https://www.linkedin.com/pulse/how-adobe-eds-stacks-up-against-modern-web-jack-jin-mroyc)  
 **Local:** [2025-06-08-adobe-eds-cms-shift/2025-06-08-actual-blog.md](2025-06-08-adobe-eds-cms-shift/2025-06-08-actual-blog.md)
+
+### 7. AI Blog Writing: Technical Leadership in the LLM Era
+**Date:** June 10, 2025  
+**LinkedIn:** [https://www.linkedin.com/posts/jackjin_aiwriting-llms-technicalleadership-activity-7338368193557614595-Iky6](https://www.linkedin.com/posts/jackjin_aiwriting-llms-technicalleadership-activity-7338368193557614595-Iky6)  
+**Local:** [2025-06-10-ai-blog-writing/2025-06-10-actual-post.txt](2025-06-10-ai-blog-writing/2025-06-10-actual-post.txt)
