@@ -118,6 +118,13 @@ If AI can’t test, it can’t code. That’s the baseline.
 
 Every one of these patterns exists to unblock the AI from being a real, effective team member. In this project, I write 0% of the code. So enabling AI to test, validate, and deploy is not optional. It’s foundational.
 
-AI agents need to be enabled like human developers. If they can’t access the data store or the AI Foundry models, they won’t be able to contribute meaningfully. They’ll be confused. Slowed down. And unproductive.
+AI agents need to be enabled like human developers. If they can't access the data store or the AI Foundry models, they won't be able to contribute meaningfully. They'll be confused. Slowed down. And unproductive.
 
-This is just the beginning. My GitHub repo shows a lot more progress than what’s written here. Hopefully, I’ll find the time and energy to keep sharing as the journey unfolds.
+This is just the beginning. My GitHub repo shows a lot more progress than what's written here. Hopefully, I'll find the time and energy to keep sharing as the journey unfolds.
+
+---
+
+**Want to read more?** Check out my [blog page](https://jackzhaojin.github.io/blogs.html) for more insights on AI, cloud architecture, and development practices.
+
+#AgenticAI #Azure #RBAC #Authentication #AIAgents #CloudSecurity #DevOps #CICD #GitHubCopilot #AzureWebApps #ManagedIdentity #OIDC #ServicePrincipal #CloudDevelopment #AIAutomation #TestDrivenDevelopment #NextJS #OpenAI #AzureAI #CloudArchitecture
+
