@@ -32,7 +32,7 @@ So when I type `npm run dev`, my development server has all it needs to access A
 AI agent can also type npm run dev as well, in case you don't want to.
 ![alt text](local-npm-start.png)
 
-Below is a screnshot of AI working locally against AI. This is a different blog but **test driven development** needs to be part of every AI agent driven product. They will do all the work, all you have to do is ask nicely.
+Below is a screnshot of AI working locally against AI. This will be a different blog but **test driven development** needs to be part of every AI agent driven product. They will do all the work, all you have to do is ask nicely.
 
 ![local ai working](local.png)
 
@@ -54,7 +54,7 @@ This identity acts as the "user" for the web app. Through the Azure Portal, I as
 * My Azure Blob Storage account
 * My AI Foundry instance
 
-No keys. No passwords. Just native RBAC.
+No keys. No passwords. Just native RBAC (role based access control).
 ![azure system mi access](systemmi.png)
 
 This is Azure at its best: services talking to services using built-in identities and scoped permissions. It keeps the surface area minimal and the setup clean. I configured all of this manually in the Azure Portal for speed. No Infrastructure as Code yet.
@@ -74,7 +74,7 @@ For Codex to validate its own code - say, by calling into Blob Storage or pingin
 The secret is not stored in `.env` or written to disk. It’s passed via **environment variable injection**, scoped tightly, and rotated using Azure's built-in secret expiration timers. Codex uses it to make secure API calls during validation steps, and yes, it works. I plan to share pull request examples where Codex self-verifies its own contributions.
 ![codex-config](codex-config.png)
 
-Is it perfect? No. But it's a huge leap toward secure, autonomous AI dev workflows.
+Is it perfect? No. But it's a huge leap toward secure, autonomous AI dev workflows. As of writing I have over 20 pull requests successfully merged. https://github.com/jackzhaojin/shadow-pivot-ai-agentv2/pulls
 
 # GitHub Action with OIDC for CI/CD
 
@@ -95,6 +95,8 @@ On every `main` branch push:
 * The Web App is restarted, which pulls the new container image.
 
 Please see my github agent deployment action which uses this oidc pattern https://github.com/jackzhaojin/shadow-pivot-ai-agentv2/blob/main/.github/workflows/main_shadow-pivot-ai-agentv2.yml
+
+![git action samples](git-action-deploying.png)
 
 At this stage, I’m only pushing the latest build. No multi-stage conversion or additional image optimization yet. No secrets. No password storage. All clean, repeatable, and secure.
 

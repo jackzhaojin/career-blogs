@@ -36,3 +36,8 @@
 **Date:** June 10, 2025  
 **LinkedIn:** [https://www.linkedin.com/posts/jackjin_aiwriting-llms-technicalleadership-activity-7338368193557614595-Iky6](https://www.linkedin.com/posts/jackjin_aiwriting-llms-technicalleadership-activity-7338368193557614595-Iky6)  
 **Local:** [2025-06-10-ai-blog-writing/2025-06-10-actual-post.txt](2025-06-10-ai-blog-writing/2025-06-10-actual-post.txt)
+
+### 8. Enabling Agentic AI Agents with Azure: Proper Role-Based Access Control & CI/CD Pipeline
+**Date:** June 12, 2025  
+**LinkedIn:** [https://www.linkedin.com/pulse/enabling-agentic-ai-agents-azure-proper-role-based-access-jack-jin-fiync](https://www.linkedin.com/pulse/enabling-agentic-ai-agents-azure-proper-role-based-access-jack-jin-fiync)  
+**Local:** [2025-06-12-agentic-ai-series-1-auth-and-cicd/](2025-06-12-agentic-ai-series-1-auth-and-cicd/)

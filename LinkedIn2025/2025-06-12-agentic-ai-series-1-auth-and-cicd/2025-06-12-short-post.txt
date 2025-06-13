@@ -1,0 +1,15 @@
+🔐 Enabling Agentic AI Agents with Azure Proper Role-Based Access Control
+
+In this start of a blog series, I'm building a public facing agent AI while writing zero lines of code (besides markdown files) and seeing what I'll learn from this experience. If you follow me on github for this project there are a lot more than just CICD the AI has produced: https://github.com/jackzhaojin/shadow-pivot-ai-agentv2
+
+NextJS Webapp deployed via fully automated CICD to https://shadow-pivot-ai-agentv2-fpfzhqgyeqdpdwce.eastus2-01.azurewebsites.net (Azure free plan takes a bit to wake up sometimes)
+
+If AI agents can’t test, they can’t build. In my latest blog, I share how I got five different actors, including Copilot, Codex, and GitHub Actions, authenticating and running securely on Azure, using almost entirely passwordless setups.
+
+This was a foundational step. It’s not just about security. It’s about unblocking AI agents to code, test, and deploy like real developers. And doing it with the right balance of modern auth patterns and role-based access.
+
+I took quite a few screenshots here and the blog took more effort than my usual ones, please let me know if this is too technical or not enough info, or just right.
+
+📖 Want to read more? Check out my blog page: https://jackzhaojin.github.io/blogs.html
+
+#AgenticAI #Azure #RBAC #Authentication #AIAgents #CloudSecurity #DevOps #CICD #GitHubCopilot #AzureWebApps #ManagedIdentity #OIDC #ServicePrincipal #CloudDevelopment #AIAutomation #TestDrivenDevelopment #NextJS #OpenAI #AzureAI #CloudArchitecture
